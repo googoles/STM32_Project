@@ -1689,3 +1689,229 @@
 2021-02-25 14:56:29,780 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
 2021-02-25 14:56:30,786 [INFO] ApiDb:263 - Save user favorites file C:\Users\Yunsoo/.stm32cubeide/favorites.mcus.txt: 2 item(s)
 2021-02-25 14:56:30,792 [INFO] ApiDb:267 - User favorites MCUs=[STM32F103RBHx, STM32F103RBTx]
+2021-02-25 15:32:44,250 [INFO] NvicIntPanel:90 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,944x475,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-02-25 15:39:36,055 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 238151432 Bytes (628097024)
+2021-02-25 15:40:39,652 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 330426120 Bytes (628097024)
+2021-02-25 15:40:40,761 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 341773088 Bytes (628097024)
+2021-02-25 15:40:41,592 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 418506504 Bytes (628097024)
+2021-02-25 15:40:41,745 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2021-02-25 15:40:41,745 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F1
+2021-02-25 15:40:41,745 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2021-02-25 15:40:41,745 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2021-02-25 15:40:41,745 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2021-02-25 15:40:41,746 [INFO] CodeGenerator:639 - code generatio: config db path: C:\ST\STM32CubeIDE_1.5.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304\\db\
+2021-02-25 15:40:42,017 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\license.tmp_save
+2021-02-25 15:40:42,135 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\license.tmp
+2021-02-25 15:40:42,181 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\gpio.tmp_save
+2021-02-25 15:40:42,223 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\gpio.tmp
+2021-02-25 15:40:42,314 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2021-02-25 15:40:42,349 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_it.c_save
+2021-02-25 15:40:42,407 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_it.c
+2021-02-25 15:40:42,417 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_it.h_save
+2021-02-25 15:40:42,465 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_it.h
+2021-02-25 15:40:42,505 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_hal_msp.c_save
+2021-02-25 15:40:42,582 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_hal_msp.c
+2021-02-25 15:40:42,590 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\system.tmp_save
+2021-02-25 15:40:42,629 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\system.tmp
+2021-02-25 15:40:42,660 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_hal_conf.h_save
+2021-02-25 15:40:42,726 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_hal_conf.h
+2021-02-25 15:40:42,743 [WARN] IPConfigManager:2967 - IP not found : TIM
+2021-02-25 15:40:42,744 [WARN] CodeGenerator:3177 - IP not found : null
+2021-02-25 15:40:42,772 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\main.h_save
+2021-02-25 15:40:42,831 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\main.h
+2021-02-25 15:40:42,846 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\main.c_save
+2021-02-25 15:40:42,922 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\main.c
+2021-02-25 15:40:43,511 [INFO] ProjectBuilder:2328 - Time for Copy HAL[1] : 142mS.
+2021-02-25 15:40:43,514 [INFO] ProjectBuilder:3259 - Project Generator version: 3.11.2
+2021-02-25 15:40:43,690 [INFO] ConfigFileManager:1238 - The Die is : DIE410
+2021-02-25 15:40:44,739 [INFO] ProjectBuilder:3425 - Time for Generating toolchain IDE Files: 1225mS.
+2021-02-25 15:40:44,740 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 1mS.
+2021-02-25 15:40:44,742 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2021-02-25 15:46:35,375 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 387404096 Bytes (896532480)
+2021-02-25 15:46:36,570 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 401035584 Bytes (896532480)
+2021-02-25 15:46:37,166 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 453464384 Bytes (896532480)
+2021-02-25 15:46:37,309 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2021-02-25 15:46:37,309 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F1
+2021-02-25 15:46:37,309 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2021-02-25 15:46:37,309 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2021-02-25 15:46:37,309 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2021-02-25 15:46:37,310 [INFO] CodeGenerator:639 - code generatio: config db path: C:\ST\STM32CubeIDE_1.5.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304\\db\
+2021-02-25 15:46:37,523 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\license.tmp_save
+2021-02-25 15:46:37,580 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\license.tmp
+2021-02-25 15:46:37,606 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\gpio.tmp_save
+2021-02-25 15:46:37,645 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\gpio.tmp
+2021-02-25 15:46:37,711 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2021-02-25 15:46:37,744 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_it.c_save
+2021-02-25 15:46:37,800 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_it.c
+2021-02-25 15:46:37,806 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_it.h_save
+2021-02-25 15:46:37,854 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_it.h
+2021-02-25 15:46:37,890 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_hal_msp.c_save
+2021-02-25 15:46:38,006 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_hal_msp.c
+2021-02-25 15:46:38,013 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\system.tmp_save
+2021-02-25 15:46:38,048 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\system.tmp
+2021-02-25 15:46:38,078 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_hal_conf.h_save
+2021-02-25 15:46:38,146 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_hal_conf.h
+2021-02-25 15:46:38,162 [WARN] IPConfigManager:2967 - IP not found : TIM
+2021-02-25 15:46:38,163 [WARN] CodeGenerator:3177 - IP not found : null
+2021-02-25 15:46:38,194 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\main.h_save
+2021-02-25 15:46:38,244 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\main.h
+2021-02-25 15:46:38,261 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\main.c_save
+2021-02-25 15:46:38,331 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\main.c
+2021-02-25 15:46:38,733 [INFO] ProjectBuilder:2328 - Time for Copy HAL[1] : 109mS.
+2021-02-25 15:46:38,736 [INFO] ProjectBuilder:3259 - Project Generator version: 3.11.2
+2021-02-25 15:46:38,913 [INFO] ConfigFileManager:1238 - The Die is : DIE410
+2021-02-25 15:46:40,015 [INFO] ProjectBuilder:3425 - Time for Generating toolchain IDE Files: 1279mS.
+2021-02-25 15:46:40,015 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2021-02-25 15:46:40,019 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2021-02-25 15:48:55,030 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 863670176 Bytes (1050673152)
+2021-02-25 15:48:55,755 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 876253088 Bytes (1050673152)
+2021-02-25 15:48:56,370 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 339384208 Bytes (1050673152)
+2021-02-25 15:48:56,526 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2021-02-25 15:48:56,526 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F1
+2021-02-25 15:48:56,526 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2021-02-25 15:48:56,527 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2021-02-25 15:48:56,527 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2021-02-25 15:48:56,528 [INFO] CodeGenerator:639 - code generatio: config db path: C:\ST\STM32CubeIDE_1.5.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304\\db\
+2021-02-25 15:48:56,713 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\license.tmp_save
+2021-02-25 15:48:56,746 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\license.tmp
+2021-02-25 15:48:56,772 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\gpio.tmp_save
+2021-02-25 15:48:56,806 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\gpio.tmp
+2021-02-25 15:48:56,871 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2021-02-25 15:48:56,904 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_it.c_save
+2021-02-25 15:48:56,961 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_it.c
+2021-02-25 15:48:56,967 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_it.h_save
+2021-02-25 15:48:57,014 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_it.h
+2021-02-25 15:48:57,051 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_hal_msp.c_save
+2021-02-25 15:48:57,131 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_hal_msp.c
+2021-02-25 15:48:57,136 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\system.tmp_save
+2021-02-25 15:48:57,170 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\system.tmp
+2021-02-25 15:48:57,200 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_hal_conf.h_save
+2021-02-25 15:48:57,269 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_hal_conf.h
+2021-02-25 15:48:57,286 [WARN] IPConfigManager:2967 - IP not found : TIM
+2021-02-25 15:48:57,286 [WARN] CodeGenerator:3177 - IP not found : null
+2021-02-25 15:48:57,316 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\main.h_save
+2021-02-25 15:48:57,364 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\main.h
+2021-02-25 15:48:57,378 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\main.c_save
+2021-02-25 15:48:57,442 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\main.c
+2021-02-25 15:48:57,833 [INFO] ProjectBuilder:2328 - Time for Copy HAL[1] : 93mS.
+2021-02-25 15:48:57,837 [INFO] ProjectBuilder:3259 - Project Generator version: 3.11.2
+2021-02-25 15:48:58,298 [INFO] ConfigFileManager:1238 - The Die is : DIE410
+2021-02-25 15:48:59,339 [INFO] ProjectBuilder:3425 - Time for Generating toolchain IDE Files: 1503mS.
+2021-02-25 15:48:59,340 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 1mS.
+2021-02-25 15:48:59,344 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2021-02-25 15:52:29,710 [INFO] NvicIntPanel:90 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,581x455,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-02-25 15:58:04,743 [INFO] NvicIntPanel:90 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,712x475,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-02-25 15:58:10,330 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 767326120 Bytes (1073741824)
+2021-02-25 15:58:11,360 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 779386784 Bytes (1073741824)
+2021-02-25 15:58:11,954 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 802819224 Bytes (1073741824)
+2021-02-25 15:58:12,104 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2021-02-25 15:58:12,104 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F1
+2021-02-25 15:58:12,104 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2021-02-25 15:58:12,104 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2021-02-25 15:58:12,104 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2021-02-25 15:58:12,105 [INFO] CodeGenerator:639 - code generatio: config db path: C:\ST\STM32CubeIDE_1.5.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304\\db\
+2021-02-25 15:58:12,285 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\license.tmp_save
+2021-02-25 15:58:12,359 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\license.tmp
+2021-02-25 15:58:12,385 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\gpio.tmp_save
+2021-02-25 15:58:12,421 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\gpio.tmp
+2021-02-25 15:58:12,488 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2021-02-25 15:58:12,521 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_it.c_save
+2021-02-25 15:58:12,590 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_it.c
+2021-02-25 15:58:12,596 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_it.h_save
+2021-02-25 15:58:12,648 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_it.h
+2021-02-25 15:58:12,680 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_hal_msp.c_save
+2021-02-25 15:58:12,752 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_hal_msp.c
+2021-02-25 15:58:12,756 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\system.tmp_save
+2021-02-25 15:58:12,807 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\system.tmp
+2021-02-25 15:58:12,863 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_hal_conf.h_save
+2021-02-25 15:58:12,952 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_hal_conf.h
+2021-02-25 15:58:12,968 [WARN] IPConfigManager:2967 - IP not found : TIM
+2021-02-25 15:58:12,969 [WARN] CodeGenerator:3177 - IP not found : null
+2021-02-25 15:58:12,998 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\main.h_save
+2021-02-25 15:58:13,046 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\main.h
+2021-02-25 15:58:13,060 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\main.c_save
+2021-02-25 15:58:13,125 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\main.c
+2021-02-25 15:58:13,569 [INFO] ProjectBuilder:2328 - Time for Copy HAL[1] : 99mS.
+2021-02-25 15:58:13,572 [INFO] ProjectBuilder:3259 - Project Generator version: 3.11.2
+2021-02-25 15:58:14,067 [INFO] ConfigFileManager:1238 - The Die is : DIE410
+2021-02-25 15:58:15,127 [INFO] ProjectBuilder:3425 - Time for Generating toolchain IDE Files: 1555mS.
+2021-02-25 15:58:15,128 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2021-02-25 15:58:15,132 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2021-02-25 15:58:33,632 [INFO] NvicIntPanel:90 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-02-25 15:59:15,575 [INFO] NvicIntPanel:90 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,712x475,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-02-25 16:00:32,614 [INFO] NvicIntPanel:90 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-02-25 16:00:34,609 [INFO] NvicIntPanel:90 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-02-25 16:01:12,880 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 786812752 Bytes (1073741824)
+2021-02-25 16:01:13,641 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 798747656 Bytes (1073741824)
+2021-02-25 16:01:14,235 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 853593944 Bytes (1073741824)
+2021-02-25 16:01:14,446 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2021-02-25 16:01:14,447 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F1
+2021-02-25 16:01:14,447 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2021-02-25 16:01:14,447 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2021-02-25 16:01:14,447 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2021-02-25 16:01:14,448 [INFO] CodeGenerator:639 - code generatio: config db path: C:\ST\STM32CubeIDE_1.5.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304\\db\
+2021-02-25 16:01:14,619 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\license.tmp_save
+2021-02-25 16:01:14,654 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\license.tmp
+2021-02-25 16:01:14,679 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\gpio.tmp_save
+2021-02-25 16:01:14,719 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\gpio.tmp
+2021-02-25 16:01:14,785 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2021-02-25 16:01:14,818 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_it.c_save
+2021-02-25 16:01:14,870 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_it.c
+2021-02-25 16:01:14,876 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_it.h_save
+2021-02-25 16:01:14,919 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_it.h
+2021-02-25 16:01:14,950 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_hal_msp.c_save
+2021-02-25 16:01:15,015 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_hal_msp.c
+2021-02-25 16:01:15,019 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\system.tmp_save
+2021-02-25 16:01:15,053 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\system.tmp
+2021-02-25 16:01:15,082 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_hal_conf.h_save
+2021-02-25 16:01:15,157 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_hal_conf.h
+2021-02-25 16:01:15,174 [WARN] IPConfigManager:2967 - IP not found : TIM
+2021-02-25 16:01:15,174 [WARN] CodeGenerator:3177 - IP not found : null
+2021-02-25 16:01:15,203 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\main.h_save
+2021-02-25 16:01:15,260 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\main.h
+2021-02-25 16:01:15,274 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\main.c_save
+2021-02-25 16:01:15,355 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\main.c
+2021-02-25 16:01:15,738 [INFO] ProjectBuilder:2328 - Time for Copy HAL[1] : 93mS.
+2021-02-25 16:01:15,741 [INFO] ProjectBuilder:3259 - Project Generator version: 3.11.2
+2021-02-25 16:01:15,900 [INFO] ConfigFileManager:1238 - The Die is : DIE410
+2021-02-25 16:01:17,268 [INFO] ProjectBuilder:3425 - Time for Generating toolchain IDE Files: 1527mS.
+2021-02-25 16:01:17,269 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2021-02-25 16:01:17,273 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2021-02-25 16:05:28,461 [INFO] NvicIntPanel:90 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-02-25 16:05:28,492 [INFO] NvicIntPanel:90 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-02-25 16:08:38,836 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 526536872 Bytes (1073741824)
+2021-02-25 16:08:39,930 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 539119784 Bytes (1073741824)
+2021-02-25 16:08:40,566 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 563431608 Bytes (1073741824)
+2021-02-25 16:08:40,708 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2021-02-25 16:08:40,709 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F1
+2021-02-25 16:08:40,709 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2021-02-25 16:08:40,709 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2021-02-25 16:08:40,709 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2021-02-25 16:08:40,709 [INFO] CodeGenerator:639 - code generatio: config db path: C:\ST\STM32CubeIDE_1.5.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304\\db\
+2021-02-25 16:08:40,916 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\license.tmp_save
+2021-02-25 16:08:40,952 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\license.tmp
+2021-02-25 16:08:40,978 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\gpio.tmp_save
+2021-02-25 16:08:41,014 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\gpio.tmp
+2021-02-25 16:08:41,082 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2021-02-25 16:08:41,117 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_it.c_save
+2021-02-25 16:08:41,173 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_it.c
+2021-02-25 16:08:41,179 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_it.h_save
+2021-02-25 16:08:41,235 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_it.h
+2021-02-25 16:08:41,270 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_hal_msp.c_save
+2021-02-25 16:08:41,346 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\stm32f1xx_hal_msp.c
+2021-02-25 16:08:41,351 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\system.tmp_save
+2021-02-25 16:08:41,385 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\MXTmpFiles\system.tmp
+2021-02-25 16:08:41,416 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_hal_conf.h_save
+2021-02-25 16:08:41,482 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\stm32f1xx_hal_conf.h
+2021-02-25 16:08:41,499 [WARN] IPConfigManager:2967 - IP not found : TIM
+2021-02-25 16:08:41,499 [WARN] CodeGenerator:3177 - IP not found : null
+2021-02-25 16:08:41,529 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\main.h_save
+2021-02-25 16:08:41,587 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Inc\main.h
+2021-02-25 16:08:41,600 [INFO] CodeEngine:229 - oldGeneratedFile, C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\main.c_save
+2021-02-25 16:08:41,679 [INFO] CodeEngine:247 - Generated code: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Projects\PWM\Core\Src\main.c
+2021-02-25 16:08:42,154 [INFO] ProjectBuilder:2328 - Time for Copy HAL[1] : 106mS.
+2021-02-25 16:08:42,157 [INFO] ProjectBuilder:3259 - Project Generator version: 3.11.2
+2021-02-25 16:08:42,323 [INFO] ConfigFileManager:1238 - The Die is : DIE410
+2021-02-25 16:08:43,907 [INFO] ProjectBuilder:3425 - Time for Generating toolchain IDE Files: 1750mS.
+2021-02-25 16:08:43,908 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2021-02-25 16:08:43,913 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
