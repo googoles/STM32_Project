@@ -1,0 +1,10 @@
+18:18:40 **** Incremental Build of configuration Debug for project G0_EXIT ****
+make -j12 all 
+arm-none-eabi-size   G0_EXIT.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4724	     20	   1572	   6316	   18ac	G0_EXIT.elf
+Finished building: default.size.stdout
+ 
+
+18:18:41 Build Finished. 0 errors, 0 warnings. (took 624ms)
+
