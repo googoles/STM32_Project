@@ -241,3 +241,6 @@ java.io.FileNotFoundException: C:\Users\Yunsoo\OneDrive\Personal_Study\ARM\Proje
 
 !ENTRY org.eclipse.cdt.core 1 0 2021-02-25 14:56:31.737
 !MESSAGE Indexed 'PWM' (19 sources, 77 headers) in 1.97 sec: 3,614 declarations; 13,093 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.debug.core 4 5012 2021-02-26 13:55:08.015
+!MESSAGE Launch configuration PWM Debug at file:/C:/Users/Yunsoo/OneDrive/Personal_Study/ARM/Projects/PWM/PWM%20Debug.launch does not exist.
